@@ -1,9 +1,9 @@
 # OmniAuth Aleph
 [![Gem Version](https://badge.fury.io/rb/omniauth-aleph.png)](http://badge.fury.io/rb/omniauth-aleph)
-[![Build Status](https://api.travis-ci.org/NYULibraries/omniauth-aleph.png?branch=master)](https://travis-ci.org/NYULibraries/omniauth-aleph)
+[![Build Status](https://travis-ci.org/NYULibraries/omniauth-aleph.svg?branch=master)](https://travis-ci.org/NYULibraries/omniauth-aleph)
 [![Dependency Status](https://gemnasium.com/NYULibraries/omniauth-aleph.png)](https://gemnasium.com/NYULibraries/omniauth-aleph)
 [![Code Climate](https://codeclimate.com/github/NYULibraries/omniauth-aleph.png)](https://codeclimate.com/github/NYULibraries/omniauth-aleph)
-[![Coverage Status](https://coveralls.io/repos/NYULibraries/omniauth-aleph/badge.png?branch=master)](https://coveralls.io/r/NYULibraries/omniauth-aleph)
+[![Coverage Status](https://coveralls.io/repos/github/NYULibraries/omniauth-aleph/badge.svg?branch=master)](https://coveralls.io/github/NYULibraries/omniauth-aleph?branch=master)
 
 Aleph patron login strategy for OmniAuth.
 
