@@ -4,10 +4,10 @@ require File.expand_path('../lib/omniauth/aleph/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name     = 'omniauth-aleph'
   gem.version  = OmniAuth::Aleph::VERSION
-  gem.authors  = ['Scot Dalton']
-  gem.email    = ['scotdalton@gmail.com']
+  gem.authors  = ['Scot Dalton','Barnaby Alter']
+  gem.email    = ['scotdalton@gmail.com','barnaby.alter@nyu.edu']
   gem.summary  = 'Aleph Patron Login Strategy for OmniAuth'
-  gem.homepage = 'https://github.com/scotdalton/omniauth-aleph'
+  gem.homepage = 'https://github.com/NYULibraries/omniauth-aleph'
   gem.license  = 'MIT'
 
   gem.files         = `git ls-files`.split("\n")
